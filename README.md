@@ -1,4 +1,4 @@
-# trom_sinatra_business
+# python-prank-emporium
 
 This is a mock business website that sells Python Pranks.  Built with Ruby and Sinatra NOT Python.
 
