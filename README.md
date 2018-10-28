@@ -2,7 +2,7 @@
 
 This is a mock business website that sells Python Pranks.  Built with Ruby and Sinatra NOT Python.
 
-Mostly working on routing but also sendgrid functionality.
+Sinatra routing enabled, but also sendgrid functionality.
 
 You can visit this site below 
 
